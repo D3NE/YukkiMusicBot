@@ -35,7 +35,7 @@ from YukkiMusic.utils.inline import (help_pannel, private_panel,
 loop = asyncio.get_running_loop()
 
 
-@app.on_message(
+@Client.on_message(
     filters.command(get_command("START_COMMAND"))
     & filters.private
     & ~filters.edited
