@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28407968",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "422126161e78bfd7ab9ffa28a15a23f3",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -35,12 +35,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://n3zuk7:og6IyqByz9nOvCe4@cluster0.rgrnw8g.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "بَناين Dj 𓏺",
         "required": true
       },
       "OWNER_ID": {
@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "AgBMnWz6Z3zZvNf677Le02fEMCbstyh03wdlM-SJjfL-S-gfWk4fW78SGPysR7DgYaBcmGP4ylzZaS4hJYLLkxNM0kh-69igM1KAuSgsIaBk-g44FgdEZLZGuoKzcoWEh27Yjpxgw7PKcZ-dN8ITudjmqVOnCXiRaiBayEFi0_n5llpqCCA2teka3wcwssajHnNVXVC7Tu13S6aQm6QN1qhpPNvABcXD9C7aXsn-24JmXKH0nVIqm6SluJILML9khRMcTnfxmwNbEg2c1IOmSltS4ZBFhuRmghUi10mzF0m7KaR0cuEA-CUPb1oJ9vgNe6r8w3-1umXFfG5JK-Lz6ZnZAAAAAXN7xnEA",
         "required": true
       },
       "HEROKU_API_KEY": {
